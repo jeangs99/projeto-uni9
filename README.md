@@ -26,7 +26,7 @@
 
 * Exemplo de protótipo de sistema:
 
-  <img src="./images/exProtitpo.png" alt="Exempleo de prototipo">
+  <img src="./images/exPrototipo.png" alt="Exempleo de prototipo">
 
 ## Para semana que vem
 
