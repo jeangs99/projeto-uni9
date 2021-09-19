@@ -33,6 +33,10 @@
 * Ele vai disponibilizar o guia do projeto para a gente ir seguindo.
 * Formato ABNT. 
 
+## Links
+
+- Link: [Cronograma](./arquivos/Projetos-Sexta-Noturno.pdf) - Cronograma do projeto feito pelo professor.
+
 # Contatos
 
 **Email do Professor**: anderson.barros@uni9.pro.br
