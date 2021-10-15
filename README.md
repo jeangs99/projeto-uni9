@@ -18,6 +18,10 @@
 
 **Notas:** 
 
+* Só precisará ser feito:
+  
+  Capa, folha de rosto, sumário, introdução, desenvolvimento, conclusão, referências, glossário, apêndice, anexos e índices. 
+
 * Não pode ser nada sobre o ramo tecnologia da programação da informação.
 
 * Toda semana deve ser apresentado o projeto.
@@ -34,6 +38,8 @@
 * Formato ABNT. 
 
 ## Links
+
+- Link: [Forma ABNT](./arquivos/manual-elaboracao-Trabahos-ABNT.pdf) - Manual para fazer o em ABNT.
 
 - Link: [Cronograma](./arquivos/Projetos-Sexta-Noturno.pdf) - Cronograma do projeto feito pelo professor.
 
