@@ -6,12 +6,12 @@
 ## O que fazer?
 
 - [x] Pensar em um ramo de atividade de uma empresa(qualquer uma).
-- [ ] Como ela funciona, e procurar qual o problema da empresa e como sulocionar. 
-- [ ] Saber como funciona processo de negócio da empresa e descrever ela.
-- [ ] Processo com defeito e resolver com modelagem: **as is** ou **to be**.
-- [ ] Criar um sistema para resolver o processo da empresa.
-- [ ] Scrum.
-- [ ] Fazer uma prototipagem do sistema.
+- [ ] Como ela funciona, e procurar qual o problema da empresa e como sulocionar. (Dolavan).
+- [ ] Saber como funciona processo de negócio da empresa e descrever ela. (Dolavan).
+- [ ] Processo com defeito e resolver com modelagem: **as is** ou **to be**. (Jean).
+- [ ] Criar um sistema para resolver o processo da empresa. (Felipe).
+- [ ] Scrum. 
+- [x] Fazer uma prototipagem do sistema. (Nicolas).
 - [ ] Teve envolver todas as máterias. 
 - [ ] mostrar a documentação.
 - [ ] Fazer a modelagem de varios processos de negocios.
